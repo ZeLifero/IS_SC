@@ -1,1 +1,1 @@
-# Курсач
+# IS system for service centre
