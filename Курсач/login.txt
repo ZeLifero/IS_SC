@@ -1,0 +1,6 @@
+admin 1234 admin
+user 1111 user
+mefodiy 22222 admin
+FS 1111 user
+nikolai 4325 user
+еблан 6767 admin

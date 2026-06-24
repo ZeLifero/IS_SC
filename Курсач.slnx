@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Курсач/Курсач.vcxproj" Id="45ec51a5-ab2a-4f81-bdfa-e0ad71d19c29">
+    <Build Solution="Debug|x64" Project="false" />
+  </Project>
+</Solution>
